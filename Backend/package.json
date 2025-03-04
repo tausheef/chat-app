@@ -6,7 +6,7 @@
     "dev": "nodemon src/index.js",
     "start": "node src/index.js"
   },
-  "keywords": [],
+  "keywords": [] ,
   "author": "",
   "type": "module",
   "license": "ISC",
