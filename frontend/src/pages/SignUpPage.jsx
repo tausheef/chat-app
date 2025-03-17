@@ -49,7 +49,7 @@ const SignUpPage = () => {
                 <MessageSquare className="size-6 text-primary" />
               </div>
               <h1 className="text-2xl font-bold mt-2">Create Account</h1>
-              <p className="text-base-content/60">Tauseef’s exclusive chat hub for his friends</p>
+              <p className="text-base-content/60">Pritam’s exclusive chat hub for his friends</p>
             </div>
           </div>
 
