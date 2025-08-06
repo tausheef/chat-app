@@ -29,10 +29,9 @@ A full-stack real-time chat application built with the MERN stack, featuring **S
 - 🔐 Google and GitHub OAuth authentication
 - 💬 Real-time private messaging using Socket.io
 - 🧑‍🤝‍🧑 Online users tracking
-- 🔔 Typing indicators
 - 📱 Responsive UI
 - 🗃️ MongoDB database integration
-- 🔒 Password hashing with bcrypt (if applicable)
+- 🔒 Password hashing with bcrypt
 
 ---
 
