@@ -3,7 +3,7 @@
 
 ## 🚀 Live Demo
 
-[Live App](https://your-deployment-link.com)
+[Live App](https://chat-app-0pt4.onrender.com/)
 
 ---
 
