@@ -1,124 +1,80 @@
-📚 Table of Contents
-About
+# 💬 Real-Time Chat App (MERN + Socket.IO)
 
-Features
+## 📷 Demo
 
-Tech Stack
+<!-- Add screenshots or a GIF demo of the app here -->
+![Chat Demo](https://your-demo-image-link.com)
 
-Screenshots
+## 🚀 Live Demo
 
-Installation
+[Live App](https://your-deployment-link.com)
 
-Usage
+---
 
-Authentication
+## 📚 Table of Contents
 
-Folder Structure
+- [About](#about)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Authentication](#authentication)
+- [Folder Structure](#folder-structure)
+- [Contributing](#contributing)
+- [License](#license)
 
-Contributing
+---
 
-License
+## 📖 About
 
-📖 About
-A full-stack real-time chat application built with the MERN stack, featuring Socket.io for live messaging and Passport.js for social login (Google & GitHub). Designed to mimic modern chat experiences like WhatsApp or Slack.
+A full-stack real-time chat application built with the MERN stack, featuring **Socket.io** for live messaging and **Passport.js** for social login (Google & GitHub). Designed to mimic modern chat experiences like WhatsApp or Slack.
 
-✨ Features
-🔐 Google and GitHub OAuth authentication
+---
 
-💬 Real-time private messaging using Socket.io
+## ✨ Features
 
-🧑‍🤝‍🧑 Online users tracking
+- 🔐 Google and GitHub OAuth authentication
+- 💬 Real-time private messaging using Socket.io
+- 🧑‍🤝‍🧑 Online users tracking
+- 🔔 Typing indicators
+- 📱 Responsive UI
+- 🗃️ MongoDB database integration
+- 🔒 Password hashing with bcrypt (if applicable)
 
-🔔 Typing indicators
+---
 
-📱 Responsive UI
+## 🛠️ Tech Stack
 
-🗃️ MongoDB database integration
+**Frontend:**
+- React
+- Socket.io-client
+- Axios
+- TailwindCSS / CSS / Bootstrap
 
-🔒 Password hashing with bcrypt (if applicable)
+**Backend:**
+- Node.js
+- Express.js
+- MongoDB + Mongoose
+- Socket.io
+- Passport.js (OAuth2 with Google & GitHub)
+- JWT (if used)
 
-🛠️ Tech Stack
-Frontend:
+---
 
-React
+## 🖼️ Screenshots
 
-Socket.io-client
+<!-- Add your screenshots here -->
+![Login Page](https://your-screenshot-link.com/login.png)
+![Chat Interface](https://your-screenshot-link.com/chat.png)
+![Active Users](https://your-screenshot-link.com/users.png)
 
-Axios
+---
 
-TailwindCSS / CSS / Bootstrap (mention what you used)
+## 🧑‍💻 Installation
 
-Backend:
+### 1. Clone the repo
 
-Node.js
-
-Express.js
-
-MongoDB + Mongoose
-
-Socket.io
-
-🧑‍💻 Installation
-1. Clone the repo:
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/tauseefraza/chat-app.git
 cd chat-app
-2. Backend Setup
-bash
-Copy
-Edit
-cd backend
-npm install
-cp .env.example .env # Add your Mongo URI, OAuth keys
-npm start
-3. Frontend Setup
-bash
-Copy
-Edit
-cd frontend
-npm install
-npm start
-🔐 Authentication
-Uses Passport.js strategies:
-
-✅ Google OAuth
-
-✅ GitHub OAuth
-
-After login, user is redirected to the chat room
-
-📁 Folder Structure
-arduino
-Copy
-Edit
-chat-app/
-│
-├── backend/
-│   ├── config/
-│   ├── routes/
-│   ├── controllers/
-│   ├── models/
-│   ├── sockets/
-│   └── server.js
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── utils/
-│   │   └── App.js
-│   └── public/
-│
-└── README.md
-🤝 Contributing
-Contributions are welcome! Feel free to fork this repo, open issues, or submit pull requests.
-
-📄 License
-This project is licensed under the MIT License – see the LICENSE file for details.
-
-🙋‍♂️ Author
-Tauseef Raza
-📧 Tausheef Raza
-💼 https://www.linkedin.com/in/tausheef-raza/
