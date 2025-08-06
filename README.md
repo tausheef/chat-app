@@ -1,9 +1,5 @@
 # 💬 Real-Time Chat App (MERN + Socket.IO)
 
-## 📷 Demo
-
-<!-- Add screenshots or a GIF demo of the app here -->
-![Chat Demo](https://your-demo-image-link.com)
 
 ## 🚀 Live Demo
 
@@ -18,11 +14,7 @@
 - [Tech Stack](#tech-stack)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Authentication](#authentication)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
@@ -62,12 +54,6 @@ A full-stack real-time chat application built with the MERN stack, featuring **S
 
 ---
 
-## 🖼️ Screenshots
-
-<!-- Add your screenshots here -->
-![Login Page](https://your-screenshot-link.com/login.png)
-![Chat Interface](https://your-screenshot-link.com/chat.png)
-![Active Users](https://your-screenshot-link.com/users.png)
 
 ---
 
