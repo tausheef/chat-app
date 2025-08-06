@@ -42,15 +42,14 @@ A full-stack real-time chat application built with the MERN stack, featuring **S
 - React
 - Socket.io-client
 - Axios
-- TailwindCSS / CSS / Bootstrap
+- TailwindCSS / CSS 
 
 **Backend:**
 - Node.js
 - Express.js
 - MongoDB + Mongoose
 - Socket.io
-- Passport.js (OAuth2 with Google & GitHub)
-- JWT (if used)
+- JWT
 
 ---
 
